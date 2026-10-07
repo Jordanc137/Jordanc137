@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Jordan Breña — Data Analyst, Python, ML/AI" width="100%"/>
+<img src="banner.svg" alt="Jordan Breña — Data Analyst, Python, ML/AI" width="100%"/>
 
 <br/>
 
