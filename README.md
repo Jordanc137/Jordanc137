@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="banner.svg" alt="Jordan Breña — Data Analyst, Python, ML/AI" width="100%"/>
+<img src="banner.svg" alt="Jordan Breña — Data Analyst, Python, C/C++, C#, ML/AI" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F2D98B&center=true&vCenter=true&width=720&lines=Analista+de+datos+en+operaciones+de+cobranza;Python+%C2%B7+pandas+%C2%B7+ETL+%C2%B7+dashboards;Aprendiendo+ML%2C+Deep+Learning+y+C%23%2F.NET;Matem%C3%A1ticas+puras+y+aplicadas)](https://github.com/Jordanc137)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FE3FF&center=true&vCenter=true&width=720&lines=Analista+de+datos+en+operaciones+de+cobranza;Python+%C2%B7+pandas+%C2%B7+ETL+%C2%B7+dashboards;C+%2F+C%2B%2B+%C2%B7+C%23+.NET+%C2%B7+SQL;Aprendiendo+ML%2C+Deep+Learning+y+matem%C3%A1ticas+avanzadas)](https://github.com/Jordanc137)
 
-<a href="https://www.linkedin.com/in/jordanbrena"><img src="https://img.shields.io/badge/LinkedIn-jordanbrena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Jordanc137?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-18-0F1B3D?style=for-the-badge&logo=github&logoColor=F2D98B" alt="Repositorios"/></a>
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-0F1B3D?style=for-the-badge&logoColor=F2D98B" alt="México"/>
-<img src="https://img.shields.io/badge/Idiomas-ES%20%7C%20EN-0F1B3D?style=for-the-badge" alt="Idiomas"/>
+<a href="https://www.linkedin.com/in/jordanbrena"><img src="https://img.shields.io/badge/LinkedIn-jordanbrena-030A17?style=for-the-badge&logo=linkedin&logoColor=4FE3FF" alt="LinkedIn"/></a>
+<a href="https://github.com/Jordanc137?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-18-030A17?style=for-the-badge&logo=github&logoColor=4FE3FF" alt="Repositorios"/></a>
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-030A17?style=for-the-badge&logoColor=4FE3FF" alt="México"/>
+<img src="https://img.shields.io/badge/Idiomas-ES%20%7C%20EN%20(C1)-030A17?style=for-the-badge&logoColor=4FE3FF" alt="Idiomas"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
 ## 👋 Sobre mí
 
@@ -26,26 +26,54 @@ Además, soy **profesor en línea de inglés, matemáticas y física**, lo que m
 
 <br/>
 
-Data analyst and Systems Engineering (Automotive) student at IPN, Mexico. I build reproducible Python data pipelines and clear dashboards for operational decision-making, and I'm deepening my foundations in mathematics, machine learning and deep learning. I also teach English, math and physics online, so communicating complex ideas clearly is part of my daily work. Open to internships and junior roles in data analysis, Python development and ML/AI. Bilingual: Spanish and English.
+Data analyst and Systems Engineering (Automotive) student at IPN, Mexico. I build reproducible Python data pipelines and clear dashboards for operational decision-making, and I'm deepening my foundations in mathematics, machine learning and deep learning, alongside C/C++ and C#/.NET. I also teach English, math and physics online, so communicating complex ideas clearly is part of my daily work. Open to internships and junior roles in data analysis, programming and ML/AI. Bilingual: Spanish and English (C1).
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
-## 🧰 Stack
+## 🧠 Arsenal técnico
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0F1B3D?style=for-the-badge&logo=python&logoColor=F2D98B)
-![pandas](https://img.shields.io/badge/pandas-0F1B3D?style=for-the-badge&logo=pandas&logoColor=F2D98B)
-![Excel](https://img.shields.io/badge/Excel-0F1B3D?style=for-the-badge&logo=microsoftexcel&logoColor=F2D98B)
-![HTML5](https://img.shields.io/badge/HTML5%20%2F%20JS-0F1B3D?style=for-the-badge&logo=html5&logoColor=F2D98B)
-![Git](https://img.shields.io/badge/Git-0F1B3D?style=for-the-badge&logo=git&logoColor=F2D98B)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F1B3D?style=for-the-badge&logo=visualstudiocode&logoColor=F2D98B)
+<sub><b>LENGUAJES</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-030A17?style=for-the-badge&logo=python&logoColor=4FE3FF" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-030A17?style=for-the-badge&logo=postgresql&logoColor=4FE3FF" alt="SQL"/>
+<img src="https://img.shields.io/badge/C-030A17?style=for-the-badge&logo=c&logoColor=4FE3FF" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-030A17?style=for-the-badge&logo=cplusplus&logoColor=4FE3FF" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-030A17?style=for-the-badge&logo=csharp&logoColor=4FE3FF" alt="C#"/>
+
+<br/><br/>
+
+<sub><b>DATOS &amp; ANALÍTICA</b></sub><br/>
+<img src="https://img.shields.io/badge/pandas-030A17?style=for-the-badge&logo=pandas&logoColor=4FE3FF" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-030A17?style=for-the-badge&logo=numpy&logoColor=4FE3FF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power%20BI-030A17?style=for-the-badge&logo=powerbi&logoColor=4FE3FF" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-030A17?style=for-the-badge&logo=microsoftexcel&logoColor=4FE3FF" alt="Excel"/>
+
+<br/><br/>
+
+<sub><b>WEB &amp; DASHBOARDS</b></sub><br/>
+<img src="https://img.shields.io/badge/HTML5-030A17?style=for-the-badge&logo=html5&logoColor=4FE3FF" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-030A17?style=for-the-badge&logo=css3&logoColor=4FE3FF" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-030A17?style=for-the-badge&logo=javascript&logoColor=4FE3FF" alt="JavaScript"/>
+
+<br/><br/>
+
+<sub><b>HERRAMIENTAS</b></sub><br/>
+<img src="https://img.shields.io/badge/Git-030A17?style=for-the-badge&logo=git&logoColor=4FE3FF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-030A17?style=for-the-badge&logo=github&logoColor=4FE3FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-030A17?style=for-the-badge&logo=visualstudiocode&logoColor=4FE3FF" alt="VS Code"/>
+
+<br/><br/>
+
+<sub><b>IDIOMAS</b></sub><br/>
+<img src="https://img.shields.io/badge/Espa%C3%B1ol%20%C2%B7%20Nativo-030A17?style=for-the-badge&logoColor=4FE3FF" alt="Español nativo"/>
+<img src="https://img.shields.io/badge/English%20%C2%B7%20C1%20Advanced-030A17?style=for-the-badge&logoColor=4FE3FF" alt="English C1"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
 ## 🚀 Proyectos destacados
 
@@ -56,32 +84,32 @@ Data analyst and Systems Engineering (Automotive) student at IPN, Mexico. I buil
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/Jordanc137/sales-data-analysis">sales-data-analysis</a></h3>
       <p>Análisis exploratorio de datos de ventas: limpieza, métricas clave y visualizaciones para detectar patrones y oportunidades.</p>
-      <img src="https://img.shields.io/badge/Python-0F1B3D?style=flat-square&logo=python&logoColor=F2D98B" alt="Python"/>
+      <img src="https://img.shields.io/badge/Python-030A17?style=flat-square&logo=python&logoColor=4FE3FF" alt="Python"/>
     </td>
     <td width="50%" valign="top">
       <h3>💬 <a href="https://github.com/Jordanc137/SentimentPulse">SentimentPulse</a></h3>
       <p>Análisis de sentimiento sobre texto con Python: primer acercamiento práctico a NLP y modelos de clasificación.</p>
-      <img src="https://img.shields.io/badge/Python-0F1B3D?style=flat-square&logo=python&logoColor=F2D98B" alt="Python"/>
-      <img src="https://img.shields.io/badge/NLP-0F1B3D?style=flat-square" alt="NLP"/>
+      <img src="https://img.shields.io/badge/Python-030A17?style=flat-square&logo=python&logoColor=4FE3FF" alt="Python"/>
+      <img src="https://img.shields.io/badge/NLP-030A17?style=flat-square&logoColor=4FE3FF" alt="NLP"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧪 <a href="https://github.com/Jordanc137/qa-automation-suite">qa-automation-suite</a></h3>
       <p>Suite de pruebas automatizadas en Python para validar calidad de software de forma repetible.</p>
-      <img src="https://img.shields.io/badge/Python-0F1B3D?style=flat-square&logo=python&logoColor=F2D98B" alt="Python"/>
-      <img src="https://img.shields.io/badge/QA-0F1B3D?style=flat-square" alt="QA"/>
+      <img src="https://img.shields.io/badge/Python-030A17?style=flat-square&logo=python&logoColor=4FE3FF" alt="Python"/>
+      <img src="https://img.shields.io/badge/QA-030A17?style=flat-square&logoColor=4FE3FF" alt="QA"/>
     </td>
     <td width="50%" valign="top">
       <h3>🐍 <a href="https://github.com/Jordanc137/Python-Core-Excellence-2025">Python-Core-Excellence-2025</a></h3>
       <p>Guía de fundamentos de Python y buenas prácticas de ingeniería (PEP 8, estilo Pythonic).</p>
-      <img src="https://img.shields.io/badge/Gu%C3%ADa-0F1B3D?style=flat-square" alt="Guía"/>
-      <img src="https://img.shields.io/badge/PEP%208-0F1B3D?style=flat-square" alt="PEP 8"/>
+      <img src="https://img.shields.io/badge/Gu%C3%ADa-030A17?style=flat-square&logoColor=4FE3FF" alt="Guía"/>
+      <img src="https://img.shields.io/badge/PEP%208-030A17?style=flat-square&logoColor=4FE3FF" alt="PEP 8"/>
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
 ## 💼 Experiencia
 
@@ -100,7 +128,7 @@ Clases en línea de inglés, matemáticas y física, con material propio.
 
 > 🔒 Los proyectos de CMONIT trabajan con datos confidenciales, por lo que no se publican en este perfil. Con gusto explico mi enfoque técnico en una entrevista.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
 ## 🌱 Aprendiendo ahora
 
@@ -110,13 +138,13 @@ Clases en línea de inglés, matemáticas y física, con material propio.
 | 📐 **Matemáticas** | Álgebra abstracta, análisis real y variable compleja |
 | 🔷 **C# / .NET** | ASP.NET Core, para ampliar mi perfil como desarrollador |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030A17,50:0E63FF,100:030A17&height=4&section=header" width="100%"/>
 
 ## 📫 Hablemos
 
-Busco **prácticas y puestos junior** en análisis de datos, desarrollo en Python y ML/AI, también en inglés.
+Busco **prácticas y puestos junior** en análisis de datos, desarrollo (Python, C/C++, C#) y ML/AI, también en inglés.
 
-<a href="https://www.linkedin.com/in/jordanbrena"><img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jordanbrena"><img src="https://img.shields.io/badge/Conectemos%20en%20LinkedIn-030A17?style=for-the-badge&logo=linkedin&logoColor=4FE3FF" alt="LinkedIn"/></a>
 
 <div align="center">
 <sub>Hecho con datos, café y mucha curiosidad · Made with data, coffee and curiosity</sub>
